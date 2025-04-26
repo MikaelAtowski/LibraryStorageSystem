@@ -1,0 +1,33 @@
+# Ignorar archivos de compilación
+/bin/
+/build/
+/out/
+/target/
+
+# Ignorar archivos de IDEs
+/.classpath
+/.project
+/.settings/
+/.idea/
+/*.iml
+*.log
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de Maven y Gradle
+/.mvn/
+/**/mvnw
+/**/mvnw.cmd
+.gradle/
+/build/
+
+# Ignorar otros archivos temporales
+*.class
+*.jar
+*.war
+*.ear
+*.tmp
+*.bak
+*.swp
